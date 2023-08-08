@@ -1,0 +1,52 @@
+{
+    "poolName" : "Gordon Head Pool",
+    "season" : "20212022",
+    "forwardGoals" : 1,
+    "forwardAssists" : 1,
+    "defenseGoals" : 2,
+    "defenseAssists" : 1,
+    "goalieWins" : 2,
+    "goalieShutouts" : 3,
+    "goalieOtl" : 1,
+    "overtimeGoals" : 0
+}
+Benjamin
+Connor McDavid (EDM), Cale Makar (COL), Auston Matthews (TOR), Juuse Saros (NSH)
+Darcy Kuemper (WSH), Kyle Connor (WPG), Frederik Andersen (CAR), Adam Fox (NYR)
+Sam Reinhart (FLA), David Pastrnak (BOS), Mark Scheifele (WPG), William Nylander (TOR)
+Alex DeBrincat (OTT), Devon Toews (COL), Roope Hintz (DAL), Alex Pietrangelo (VGK)
+Tyson Barrie (EDM), Martin Necas (CAR)
+
+Curtis
+Roman Josi (NSH), Leon Draisaitl (EDM), Johnny Gaudreau (CBJ), Kirill Kaprizov (MIN)
+Mitchell Marner (TOR), Artemi Panarin (NYR), Aleksander Barkov (FLA), Mika Zibanejad (NYR)
+Tony DeAngelo (PHI), Patrice Bergeron (BOS), Brent Burns (CAR), Seth Jones (CHI)
+Robin Lehner (VGK), Zach Hyman (EDM), John Klingberg (ANA), Linus Ullmark (BOS)
+Carter Hart (PHI), Jonathan Toews (CHI)
+
+Eric
+Jonathan Huberdeau (CGY), J.T. Miller (VAN), Andrei Vasilevskiy (TBL), John Carlson (WSH)
+Connor Hellebuyck (WPG), Jake Guentzel (PIT), Brad Marchand (BOS), Thatcher Demko (VAN)
+John Tavares (TOR), Elias Pettersson (VAN), Zach Werenski (CBJ), Jack Hughes (NJD)
+Nikolaj Ehlers (WPG), Ryan O'Reilly (STL), Torey Krug (STL), Thomas Chabot (OTT)
+Dougie Hamilton (NJD), Sean Couturier (PHI)
+
+James
+Mikko Rantanen (COL), Patrick Kane (CHI), Sergei Bobrovsky (FLA), Nathan MacKinnon (COL)
+Joe Pavelski (DAL), Aaron Ekblad (FLA), Kris Letang (PIT), Marc-Andre Fleury (MIN)
+Anze Kopitar (LAK), Pavel Buchnevich (STL), Blake Wheeler (WPG), Claude Giroux (OTT)
+Andre Burakovsky (SEA), Darnell Nurse (EDM), Jordan Binnington (STL), Max Pacioretty (CAR)
+Jakob Chychrun (ARI), Jeff Petry (PIT)
+
+Dennis
+Jacob Markstrom (CGY), Victor Hedman (TBL), Alex Ovechkin (WSH), Steven Stamkos (TBL)
+Sidney Crosby (PIT), Morgan Rielly (TOR), Quinn Hughes (VAN), Jonathan Marchessault (VGK)
+Charlie McAvoy (BOS), Gabriel Landeskog (COL), Shea Theodore (VGK), Tyler Toffoli (CGY)
+Philipp Grubauer (SEA), Brock Boeser (VAN), Nicklas Backstrom (WSH), Mark Stone (VGK)
+William Karlsson (VGK), Jake Allen (MTL)
+
+Wayne
+Sebastian Aho (CAR), Jack Campbell (EDM), Andrei Svechnikov (CAR), Teuvo Teravainen (CAR)
+Brayden Point (TBL), Mathew Barzal (NYI), MacKenzie Weegar (CGY), Vincent Trocheck (NYR)
+Nikita Kucherov (TBL), Mikhail Sergachev (TBL), Ondrej Palat (NJD), Miro Heiskanen (DAL)
+Adam Pelech (NYI), Semyon Varlamov (NYI), Jesperi Kotkaniemi (CAR), Ryan Pulock (NYI)

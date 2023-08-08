@@ -1,0 +1,127 @@
+{
+    "poolName" : "Gordon Head Pool 2023",
+    "season" : "20222023",
+    "forwardGoals" : 1,
+    "forwardAssists" : 1,
+    "defenseGoals" : 2,
+    "defenseAssists" : 1,
+    "goalieWins" : 2,
+    "goalieShutouts" : 3,
+    "goalieOtl" : 1,
+    "overtimeGoals" : 1
+}
+Leo
+Leon Draisaitl (EDM), Andrei Vasilevskiy (TBL), Igor Shesterkin (NYR), Artemi Panarin (NYR)
+Aleksander Barkov (FLA), J.T. Miller (VAN), David Pastrnak (BOS), Johnny Gaudreau (CBJ)
+Jason Robertson (DAL), Jordan Binnington (STL), Moritz Seider (DET), Tim Stützle (OTT)
+Roope Hintz (DAL), Evgeny Kuznetsov (WSH), Patrik Laine (CBJ), Torey Krug (STL)
+Mikhail Sergachev (TBL), Brad Marchand (BOS), Vince Dunn (SEA), John Gibson (ANA)
+Shayne Gostisbehere (ARI)
+
+Shane
+Kirill Kaprizov (MIN), Mitchell Marner (TOR), Nikita Kucherov (TBL), Frederik Andersen (CAR)
+Jack Hughes (NJD), Miro Heiskanen (DAL), Jack Eichel (VGK), Tristan Jarry (PIT)
+Elias Pettersson (VAN), Zach Werenski (CBJ), Dougie Hamilton (NJD), Timo Meier (SJS)
+Trevor Zegras (ANA), Brady Tkachuk (OTT), Connor Hellebuyck (WPG), Bryan Rust (PIT)
+Evan Bouchard (EDM), John Tavares (TOR), Marc-Andre Fleury (MIN), Teuvo Teravainen (CAR
+Jakob Chychrun (ARI)
+
+Rachel
+Nathan MacKinnon (COL), Adam Fox (NYR), Alexandar Georgiev (COL), Mikko Rantanen (COL)
+Matt Murray (TOR), Mika Zibanejad (NYR), Shea Theodore (VGK), Sergei Bobrovsky (FLA)
+Rasmus Dahlin (BUF), Mathew Barzal (NYI), Robert Thomas (STL), Dylan Larkin (DET)
+Mark Scheifele (WPG), Thomas Chabot (OTT),Drew Doughty (LAK), Mark Stone (VGK)
+Jesper Bratt (NJD), Elvis Merzlikins (CBJ), Nikolaj Ehlers (WPG), Kailer Yamamoto (EDM)
+Ondrej Palat (NJD)
+
+Peter
+Connor McDavid (EDM)
+Jacob Markstrom (CGY)
+Juuse Saros (NSH)
+Jack Campbell (EDM)
+Aaron Ekblad (FLA)
+Evander Kane (EDM)
+Elias Lindholm (CGY)
+Matthew Tkachuk (FLA)
+Jake Guentzel (PIT)
+Chris Kreider (NYR)
+Brent Burns (SJS)
+Tyson Barrie (EDM)
+Mats Zuccarello (MIN)
+Alex DeBrincat (CHI)
+Vincent Trocheck (NYR)
+Michael Bunting (TOR)
+Noah Hanifin (CGY)
+Zach Hyman (EDM)
+Nino Niederreiter (NSH)
+Jared Spurgeon (MIN)
+Alex Nedeljkovic (DET)
+
+Bruce
+Jonathan Huberdeau (CGY)
+Steven Stamkos (TBL)
+Kris Letang (PIT)
+Quinn Hughes (VAN)
+Sidney Crosby (PIT)
+Thatcher Demko (VAN)
+Brayden Point (TBL)
+Sebastian Aho (CAR)
+Jake Oettinger (DAL)
+Bo Horvat (VAN)
+Seth Jones (CHI)
+Andrei Svechnikov (CAR)
+Ryan O'Reilly (STL)
+John Klingberg (ANA)
+Josh Norris (OTT)
+Patrice Bergeron (BOS)
+Ville Husso (DET)
+Noah Dobson (NYI)
+Gabriel Landeskog (COL)
+Alex Killorn (TBL)
+Spencer Knight (FLA)
+
+Helen
+Cale Makar (COL)
+Roman Josi (NSH)
+John Carlson (WSH)
+Patrick Kane (CHI)
+Morgan Rielly (TOR)
+Filip Forsberg (NSH)
+Ilya Sorokin (NYI)
+Darcy Kuemper (WSH)
+Vladimir Tarasenko (STL)
+Kevin Fiala (LAK)
+William Nylander (TOR)
+Jordan Kyrou (STL)
+Pavel Buchnevich (STL)
+Valeri Nichushkin (COL)
+Carter Verhaeghe (FLA)
+Jonathan Marchessault (VGK)
+T.J. Oshie (WSH)
+Justin Faulk (STL)
+Sam Bennett (FLA)
+Jeremy Swayman (BOS)
+Cam Talbot (OTT)
+
+Connor
+Auston Matthews (TOR)
+Victor Hedman (TBL)
+Kyle Connor (WPG)
+Alex Ovechkin (WSH)
+Devon Toews (COL)
+Matt Duchene (NSH)
+Sam Reinhart (FLA)
+Nazem Kadri (CGY)
+Joe Pavelski (DAL)
+Anze Kopitar (LAK)
+Alex Pietrangelo (VGK)
+Erik Karlsson (SJS)
+Bowen Byram (COL)
+Tyler Bertuzzi (DET)
+Taylor Hall (BOS)
+Nick Suzuki (MTL)
+Blake Wheeler (WPG)
+Ilya Samsonov (TOR)
+Jonathan Quick (LAK)
+Martin Jones (SEA)
+Thomas Greiss (STL)
